@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    padding: 10%;
+    /* background-image: url("bg.jpg"); */
+    background-size: cover;
+    /* border: 5px #fff; */
+  color: rgb(180, 189, 207);
+  
+    
+   
+   
+  }
+  /* .forgot-password{
+ color: white; 
+  } */
+
+  
+input[type="password"],
+input[type="email"] {
+  padding: 12px 5px;
+  background: rgba(0, 0, 0, 0.1);
+  border: 15px;
+  border-color: black;
+  border-bottom: 1px dotted black;
+  color: black;
+  font-weight: bold;
+  margin: 4px;
+  
+ width: 200px;
+ padding: 10Spx;
+  margin: 12px;
+
+}
+
+.box{
+/* color: white; */
+border: black;
+padding: 5%;
+
+}
